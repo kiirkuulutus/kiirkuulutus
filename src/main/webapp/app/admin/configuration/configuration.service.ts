@@ -27,6 +27,7 @@ export class JhiConfigurationService {
         );
     }
     
+    
 
     getConfigPropertiesObjects(res: Object) {
         // This code is for Spring Boot 2
